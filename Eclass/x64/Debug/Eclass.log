@@ -1,0 +1,8 @@
+﻿  Exams.cpp
+  FirstPage.cpp
+g:\Makhinur\c++\Project\Eclass\FirstPage.cpp(16,40): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  General.cpp
+  MyUserControl.cpp
+  Generating Code...
+  FirstPage.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Eclass.vcxproj -> G:\Makhinur\c++\Project\x64\Debug\Eclass.exe

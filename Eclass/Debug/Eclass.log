@@ -1,0 +1,13 @@
+﻿  FirstPage.cpp
+C:\Users\pazil\source\repos\fayyozbek\OOPproject\Eclass\Grades.h(288,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pazil\source\repos\fayyozbek\OOPproject\Eclass\Grades.h(307,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pazil\source\repos\fayyozbek\OOPproject\Eclass\FirstPage.cpp(16,40): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Grades.cpp
+C:\Users\pazil\source\repos\fayyozbek\OOPproject\Eclass\Grades.h(288,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pazil\source\repos\fayyozbek\OOPproject\Eclass\Grades.h(307,22): warning C4018: <: несоответствие типов со знаком и без знака
+  MyUserControl.cpp
+C:\Users\pazil\source\repos\fayyozbek\OOPproject\Eclass\Grades.h(288,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pazil\source\repos\fayyozbek\OOPproject\Eclass\Grades.h(307,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  FirstPage.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Eclass.vcxproj -> C:\Users\pazil\source\repos\fayyozbek\OOPproject\Debug\Eclass.exe

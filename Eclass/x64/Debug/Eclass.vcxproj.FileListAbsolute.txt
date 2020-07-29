@@ -1,0 +1,9 @@
+g:\Makhinur\c++\Project\Eclass\x64\Debug\Eclass.vcxprojAssemblyReference.cache
+g:\Makhinur\c++\Project\Eclass\x64\Debug\Eclass.FirstPage.resources
+g:\Makhinur\c++\Project\Eclass\x64\Debug\Eclass.MyUserControl.resources
+g:\Makhinur\c++\Project\Eclass\x64\Debug\Eclass.Assignments.resources
+g:\Makhinur\c++\Project\Eclass\x64\Debug\Eclass.Courses.resources
+g:\Makhinur\c++\Project\Eclass\x64\Debug\Eclass.Exams.resources
+g:\Makhinur\c++\Project\Eclass\x64\Debug\Eclass.General.resources
+g:\Makhinur\c++\Project\Eclass\x64\Debug\Eclass.Grades.resources
+g:\Makhinur\c++\Project\Eclass\x64\Debug\Eclass.vcxproj.GenerateResource.cache

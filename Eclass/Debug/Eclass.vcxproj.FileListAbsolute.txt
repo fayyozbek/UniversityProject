@@ -1,0 +1,12 @@
+C:\Users\pazil\source\repos\Eclass\Eclass\Debug\Eclass.vcxprojAssemblyReference.cache
+C:\Users\pazil\source\repos\Eclass\Eclass\Debug\Eclass.FirstPage.resources
+C:\Users\pazil\source\repos\Eclass\Eclass\Debug\Eclass.vcxproj.GenerateResource.cache
+C:\Users\pazil\source\repos\fayyozbek\OOPproject\Eclass\Debug\Eclass.vcxprojAssemblyReference.cache
+C:\Users\pazil\source\repos\fayyozbek\OOPproject\Eclass\Debug\Eclass.FirstPage.resources
+C:\Users\pazil\source\repos\fayyozbek\OOPproject\Eclass\Debug\Eclass.MyUserControl.resources
+C:\Users\pazil\source\repos\fayyozbek\OOPproject\Eclass\Debug\Eclass.Assignments.resources
+C:\Users\pazil\source\repos\fayyozbek\OOPproject\Eclass\Debug\Eclass.Courses.resources
+C:\Users\pazil\source\repos\fayyozbek\OOPproject\Eclass\Debug\Eclass.Exams.resources
+C:\Users\pazil\source\repos\fayyozbek\OOPproject\Eclass\Debug\Eclass.General.resources
+C:\Users\pazil\source\repos\fayyozbek\OOPproject\Eclass\Debug\Eclass.Grades.resources
+C:\Users\pazil\source\repos\fayyozbek\OOPproject\Eclass\Debug\Eclass.vcxproj.GenerateResource.cache

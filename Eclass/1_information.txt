@@ -1,0 +1,5 @@
+CED|SOC1020|Jasurbek Khodjaev|M|
+OOP|MSC1052|Seth Kirti|H10|
+English|GEN1022|Kristina Zubaydullaeva|F9|
+Calculs|MSC1012|Dokov Stefcho|W16|
+Physics|MSC1022|Farrukh Atomuratov|M12|
